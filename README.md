@@ -1,8 +1,7 @@
-# AmadeusTelegramAI
+# AmadeusTelegramAI <img src="https://i.redd.it/4grdlvybnun01.gif" alt="" width="30"/> [@AmadeusDroidXBot](https://t.me/AmadeusDroidXBot)
 
 ![image](https://user-images.githubusercontent.com/52743561/195871902-093c7feb-7dba-4dcd-b542-cfda3a6f7640.png)
 
-***Telegram***: <img src="https://i.redd.it/4grdlvybnun01.gif" alt="" width="30"/> [@AmadeusDroidXBot](https://t.me/AmadeusDroidXBot)
 <details>
 <summary> <b>QR</b> </summary>
 <img src="https://user-images.githubusercontent.com/52743561/196019257-3b61f25e-d954-4561-a60b-30b61f597750.png" alt="" width="400"/>
